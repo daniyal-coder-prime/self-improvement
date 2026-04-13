@@ -1,0 +1,155 @@
+[
+  {
+    "day": 1,
+    "insights": [
+      {
+        "source": "Atomic Habits",
+        "sourceColor": "#3b82f6",
+        "title": "Systems Over Goals",
+        "application": "You don't rise to the level of your goals. You fall to the level of your systems. Every habit in this plan is system-based, not willpower-based. Your gym schedule, coding blocks, and outreach cadence ARE the system."
+      },
+      {
+        "source": "Deep Work (Cal Newport)",
+        "sourceColor": "#8b5cf6",
+        "title": "High-Quality Output = Time × Intensity",
+        "application": "Your 2-3 hour coding blocks must be ZERO distraction. Phone in another room. No social media. This single practice will 10x your skill growth vs scattered 6-hour sessions."
+      },
+      {
+        "source": "Alex Hormozi",
+        "sourceColor": "#ef4444",
+        "title": "Asymmetric Bets + Volume",
+        "application": "You're finishing your degree, zero obligations. Your downside is literally nothing. Take maximum shots — apply to 50 jobs, send 500 cold emails, ship projects. Volume is your weapon."
+      },
+      {
+        "source": "Ali Abdaal",
+        "sourceColor": "#10b981",
+        "title": "Systemize Everything",
+        "application": "Every part of your life gets a system: gym has a program, outreach has templates, coding has a curriculum, spirituality has a schedule. Remove decision fatigue entirely."
+      },
+      {
+        "source": "The Compound Effect",
+        "sourceColor": "#f59e0b",
+        "title": "Small Consistent Actions Compound",
+        "application": "10 pages/day = 7 books in 8 months. 10 LinkedIn messages/day = 300 contacts in a month. 2.5 hrs coding/day = 150+ hours of practice in 2 months. Small. Daily. Relentless."
+      },
+      {
+        "source": "Can't Hurt Me (Goggins)",
+        "sourceColor": "#dc2626",
+        "title": "Embrace the Suck",
+        "application": "There will be days you don't want to send another cold email or debug another error. Do it anyway. The 40% rule — when your mind says quit, you're only at 40%."
+      },
+      {
+        "source": "Mastery (Robert Greene)",
+        "sourceColor": "#7c3aed",
+        "title": "The Apprenticeship Phase",
+        "application": "You're in it right now. This is NOT the time to chase shortcuts. Go deep on React + .NET. Absorb everything. Mastery comes from thousands of hours of deliberate practice."
+      },
+      {
+        "source": "Never Split the Difference",
+        "sourceColor": "#0ea5e9",
+        "title": "Tactical Empathy in Sales",
+        "application": "Every ProDisk outreach, every job interview, every client call — lead with THEIR pain, not your pitch. Mirror, label emotions, use calibrated questions."
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "insights": [
+      {
+        "source": "Atomic Habits",
+        "sourceColor": "#3b82f6",
+        "title": "Identity-Based Habits",
+        "application": "Don't say 'I want to be a developer.' Say 'I AM a developer.' Every commit, every line of code, every ProDisk email reinforces this identity. Your habits cast votes for the person you're becoming."
+      },
+      {
+        "source": "7 Habits (Covey)",
+        "sourceColor": "#059669",
+        "title": "Begin With the End in Mind",
+        "application": "Visualize where you'll be in 8 weeks: 2 deployed projects, 50+ job applications, 2-3 ProDisk clients, and the foundation of a $500/month income. Work backwards from that image every single day."
+      },
+      {
+        "source": "Grit (Angela Duckworth)",
+        "sourceColor": "#d97706",
+        "title": "Passion + Perseverance Over Talent",
+        "application": "Talent is overrated. The developers who succeed aren't the smartest — they're the ones who show up every single day for 2.5 hours of deep work. Your consistency IS your competitive advantage."
+      },
+      {
+        "source": "Deep Work (Cal Newport)",
+        "sourceColor": "#8b5cf6",
+        "title": "The Craftsman Mindset",
+        "application": "Stop asking 'what can this job offer me?' Start asking 'what can I offer this job?' Build rare and valuable skills in React + .NET. The career capital you accumulate will give you leverage for the remote roles you want."
+      },
+      {
+        "source": "The Power of Habit",
+        "sourceColor": "#e11d48",
+        "title": "The Habit Loop: Cue → Routine → Reward",
+        "application": "Your morning meditation cue = alarm at 7:00 AM. Routine = 10 min breathing. Reward = feeling of calm before gym. Design every habit with this loop. Make the cue obvious and the reward satisfying."
+      },
+      {
+        "source": "The Compound Effect",
+        "sourceColor": "#f59e0b",
+        "title": "Track Everything",
+        "application": "What gets measured gets managed. Track your LinkedIn connections, cold emails sent, gym sessions, and coding hours. Your Sunday night review is where you turn data into decisions."
+      },
+      {
+        "source": "Alex Hormozi",
+        "sourceColor": "#ef4444",
+        "title": "Speed to Lead",
+        "application": "When a ProDisk prospect responds, reply within 5 minutes. The first vendor to respond wins 78% of deals. Set up notifications for Apollo.io replies and LinkedIn messages. Be the fastest."
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "insights": [
+      {
+        "source": "Atomic Habits",
+        "sourceColor": "#3b82f6",
+        "title": "Environment Design",
+        "application": "Set up your workspace the night before. Close all browser tabs except coding tools. Put your phone in another room during deep work. Make the right behavior the easiest behavior."
+      },
+      {
+        "source": "Can't Hurt Me (Goggins)",
+        "sourceColor": "#dc2626",
+        "title": "The Accountability Mirror",
+        "application": "Write your goals on Post-it notes and stick them on your bathroom mirror. Every morning, look yourself in the eye and ask: 'Am I doing everything I can?' Be brutally honest."
+      },
+      {
+        "source": "Mastery (Robert Greene)",
+        "sourceColor": "#7c3aed",
+        "title": "Deep Observation",
+        "application": "In your first weeks of any new codebase or client relationship, observe more than you act. Study how successful remote developers structure their portfolios. Analyze what ProDisk competitors do well."
+      },
+      {
+        "source": "Never Split the Difference",
+        "sourceColor": "#0ea5e9",
+        "title": "Mirroring",
+        "application": "In cold emails and LinkedIn messages, mirror the language your prospects use. If an IT manager says 'we need reliable vendors,' respond with 'It sounds like finding reliable vendors has been a challenge.' This builds instant rapport."
+      },
+      {
+        "source": "Mindset (Carol Dweck)",
+        "sourceColor": "#8b5cf6",
+        "title": "The Power of 'Yet'",
+        "application": "You don't know Docker YET. You haven't landed a remote job YET. You haven't closed a ProDisk deal YET. Adding 'yet' transforms a fixed mindset statement into a growth trajectory."
+      },
+      {
+        "source": "Getting Things Done",
+        "sourceColor": "#0891b2",
+        "title": "The 2-Minute Rule",
+        "application": "If a task takes less than 2 minutes, do it immediately. Reply to that LinkedIn message now. Fix that small bug now. Send that follow-up email now. Small wins compound into massive momentum."
+      },
+      {
+        "source": "7 Habits (Covey)",
+        "sourceColor": "#059669",
+        "title": "Put First Things First",
+        "application": "Your deep work coding block is a Quadrant 2 activity — important but not urgent. Protect it like your life depends on it. Everything else (social media, random browsing) is Quadrant 4 noise."
+      },
+      {
+        "source": "Ali Abdaal",
+        "sourceColor": "#10b981",
+        "title": "Feel-Good Productivity",
+        "application": "Productivity shouldn't feel like punishment. Play music during walks, gamify your outreach with daily targets, celebrate small wins. When you enjoy the process, consistency becomes effortless."
+      }
+    ]
+  }
+]
